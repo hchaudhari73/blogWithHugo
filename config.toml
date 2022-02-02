@@ -1,0 +1,5 @@
+baseURL = "http://localhost:3000/"
+languageCode = "en-us"
+title = "The Bloging site"
+
+theme="terminal"

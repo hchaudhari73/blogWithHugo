@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:3000/python/helloworld/</loc>
+    <lastmod>2022-02-02T20:12:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/python/</loc>
+    <lastmod>2022-02-02T20:12:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/quote/</loc>
+    <lastmod>2022-02-02T19:37:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/quote/second/</loc>
+    <lastmod>2022-02-02T19:37:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/quote/first/</loc>
+    <lastmod>2022-02-02T19:37:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/posts/</loc>
+    <lastmod>2022-02-02T19:36:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/posts/secondposts/</loc>
+    <lastmod>2022-02-02T19:36:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/posts/firstpost/</loc>
+    <lastmod>2022-02-02T19:36:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/about/</loc>
+    <lastmod>2022-02-02T19:35:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/</loc>
+    <lastmod>2022-02-02T19:35:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/</loc>
+  </url>
+  
+</urlset>
