@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Bloging site</title>
-    <link>http://localhost:3000/</link>
+    <link>http://localhost:8080/</link>
     <description>Recent content on The Bloging site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 19:35:09 +0530</lastBuildDate><atom:link href="http://localhost:3000/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 19:35:09 +0530</lastBuildDate><atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greet the world in Python</title>
-      <link>http://localhost:3000/python/helloworld/</link>
+      <link>http://localhost:8080/python/helloworld/</link>
       <pubDate>Wed, 02 Feb 2022 20:12:37 +0530</pubDate>
       
-      <guid>http://localhost:3000/python/helloworld/</guid>
+      <guid>http://localhost:8080/python/helloworld/</guid>
       <description>Congratulations on making efforts of learning a new language. Python is relatively very easy to than the other programming languages. If you knwo English and logic, learning python will be a walk on a cake.
 Let&amp;rsquo;s get started with classic hello world program def greet(): print(&amp;#34;Hello World&amp;#34;) </description>
       <content>&lt;h2 id=&#34;congratulations-on-making-efforts-of-learning-a-new-language&#34;&gt;Congratulations on making efforts of learning a new language.&lt;/h2&gt;
@@ -26,10 +26,10 @@ If you knwo English and logic, learning python will be a walk on a cake.&lt;/p&g
     
     <item>
       <title>Second</title>
-      <link>http://localhost:3000/quote/second/</link>
+      <link>http://localhost:8080/quote/second/</link>
       <pubDate>Wed, 02 Feb 2022 19:37:46 +0530</pubDate>
       
-      <guid>http://localhost:3000/quote/second/</guid>
+      <guid>http://localhost:8080/quote/second/</guid>
       <description>There are only two difficult things is computer science
  Cach Invalidation Naming things  </description>
       <content>&lt;p&gt;&lt;strong&gt;There are only two difficult things is computer science&lt;/strong&gt;&lt;/p&gt;
@@ -42,10 +42,10 @@ If you knwo English and logic, learning python will be a walk on a cake.&lt;/p&g
     
     <item>
       <title>First</title>
-      <link>http://localhost:3000/quote/first/</link>
+      <link>http://localhost:8080/quote/first/</link>
       <pubDate>Wed, 02 Feb 2022 19:37:42 +0530</pubDate>
       
-      <guid>http://localhost:3000/quote/first/</guid>
+      <guid>http://localhost:8080/quote/first/</guid>
       <description>Slow but study wins the race</description>
       <content>&lt;p&gt;&lt;strong&gt;Slow but study wins the race&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -53,25 +53,25 @@ If you knwo English and logic, learning python will be a walk on a cake.&lt;/p&g
     
     <item>
       <title>Secondposts</title>
-      <link>http://localhost:3000/posts/secondpost/</link>
+      <link>http://localhost:8080/posts/secondpost/</link>
       <pubDate>Wed, 02 Feb 2022 19:36:12 +0530</pubDate>
       
-      <guid>http://localhost:3000/posts/secondpost/</guid>
-      <description>System design 102 This is in continuation with the my first blog [firstpost.md]. We will talk about load balancers vs reverse proxy.
-I will be talking continue posting about stuff like this is the future. If you like what I am doing, follow me on my website [{www.harshal.chaudhari.com}].</description>
+      <guid>http://localhost:8080/posts/secondpost/</guid>
+      <description>System design 102 This is in continuation with the my first blog. We will talk about load balancers vs reverse proxy.
+I will be talking continue posting about stuff like this is the future. If you like what I am doing, follow me on my website.</description>
       <content>&lt;h1 id=&#34;system-design-102&#34;&gt;System design 102&lt;/h1&gt;
-&lt;p&gt;This is in continuation with the my first blog [firstpost.md]. We will talk about load balancers vs reverse proxy.&lt;/p&gt;
+&lt;p&gt;This is in continuation with the my &lt;a href=&#34;../firstpost/index.html&#34;&gt;first blog&lt;/a&gt;. We will talk about load balancers vs reverse proxy.&lt;/p&gt;
 &lt;p&gt;I will be talking continue posting about stuff like this is the future.
-If you like what I am doing, follow me on my website [{www.harshal.chaudhari.com}].&lt;/p&gt;
+If you like what I am doing, follow me on my &lt;a href=&#34;www.harshal.chaudhari.com&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Firstpost</title>
-      <link>http://localhost:3000/posts/firstpost/</link>
+      <link>http://localhost:8080/posts/firstpost/</link>
       <pubDate>Wed, 02 Feb 2022 19:36:03 +0530</pubDate>
       
-      <guid>http://localhost:3000/posts/firstpost/</guid>
+      <guid>http://localhost:8080/posts/firstpost/</guid>
       <description>System design 101 This is very detailed blog about how to choose which programing language, framework, database to use for a project.
 I will be talking continue posting about stuff like this is the future. If you like what I am doing, follow me on my github.</description>
       <content>&lt;h1 id=&#34;system-design-101&#34;&gt;System design 101&lt;/h1&gt;
@@ -84,14 +84,14 @@ If you like what I am doing, follow me on my &lt;a href=&#34;https://github.com/
     
     <item>
       <title>About</title>
-      <link>http://localhost:3000/about/</link>
+      <link>http://localhost:8080/about/</link>
       <pubDate>Wed, 02 Feb 2022 19:35:09 +0530</pubDate>
       
-      <guid>http://localhost:3000/about/</guid>
-      <description>Welcome to my HUGO project!!! I have created this using HUGO which is build using Golang. It is the fastest static file generator. I am creating this dummy project to learn HUGO. And to generate beautiful static html using theams provided by HUGO. </description>
+      <guid>http://localhost:8080/about/</guid>
+      <description>Welcome to my HUGO project!!! I have created this using HUGO which is build using Golang. It is the fastest static file generator. I am creating this dummy project to learn HUGO. And to generate beautiful static html using themes provided by HUGO. </description>
       <content>&lt;h1 id=&#34;welcome-to-my-hugo-project&#34;&gt;Welcome to my HUGO project!!!&lt;/h1&gt;
 &lt;h2 id=&#34;i-have-created-this-using-hugo-which-is-build-using-golang-it-is-the-fastest-static-file-generator&#34;&gt;I have created this using HUGO which is build using Golang. It is the fastest static file generator.&lt;/h2&gt;
-&lt;h2 id=&#34;i-am-creating-this-dummy-project-to-learn-hugo-and-to-generate-beautiful-static-html-using-theams-provided-by-hugo&#34;&gt;I am creating this dummy project to learn HUGO. And to generate beautiful static html using theams provided by HUGO.&lt;/h2&gt;
+&lt;h2 id=&#34;i-am-creating-this-dummy-project-to-learn-hugo-and-to-generate-beautiful-static-html-using-themes-provided-by-hugo&#34;&gt;I am creating this dummy project to learn HUGO. And to generate beautiful static html using themes provided by HUGO.&lt;/h2&gt;
 </content>
     </item>
     

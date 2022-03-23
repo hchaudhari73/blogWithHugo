@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quotes on The Bloging site</title>
-    <link>http://localhost:3000/quote/</link>
+    <link>http://localhost:8080/quote/</link>
     <description>Recent content in Quotes on The Bloging site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 19:37:46 +0530</lastBuildDate><atom:link href="http://localhost:3000/quote/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 19:37:46 +0530</lastBuildDate><atom:link href="http://localhost:8080/quote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second</title>
-      <link>http://localhost:3000/quote/second/</link>
+      <link>http://localhost:8080/quote/second/</link>
       <pubDate>Wed, 02 Feb 2022 19:37:46 +0530</pubDate>
       
-      <guid>http://localhost:3000/quote/second/</guid>
+      <guid>http://localhost:8080/quote/second/</guid>
       <description>There are only two difficult things is computer science
  Cach Invalidation Naming things  </description>
       <content>&lt;p&gt;&lt;strong&gt;There are only two difficult things is computer science&lt;/strong&gt;&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>First</title>
-      <link>http://localhost:3000/quote/first/</link>
+      <link>http://localhost:8080/quote/first/</link>
       <pubDate>Wed, 02 Feb 2022 19:37:42 +0530</pubDate>
       
-      <guid>http://localhost:3000/quote/first/</guid>
+      <guid>http://localhost:8080/quote/first/</guid>
       <description>Slow but study wins the race</description>
       <content>&lt;p&gt;&lt;strong&gt;Slow but study wins the race&lt;/strong&gt;&lt;/p&gt;
 </content>

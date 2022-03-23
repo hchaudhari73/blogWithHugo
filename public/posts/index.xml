@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Bloging site</title>
-    <link>http://localhost:3000/posts/</link>
+    <link>http://localhost:8080/posts/</link>
     <description>Recent content in Posts on The Bloging site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 19:36:12 +0530</lastBuildDate><atom:link href="http://localhost:3000/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 19:36:12 +0530</lastBuildDate><atom:link href="http://localhost:8080/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secondposts</title>
-      <link>http://localhost:3000/posts/secondpost/</link>
+      <link>http://localhost:8080/posts/secondpost/</link>
       <pubDate>Wed, 02 Feb 2022 19:36:12 +0530</pubDate>
       
-      <guid>http://localhost:3000/posts/secondpost/</guid>
-      <description>System design 102 This is in continuation with the my first blog [firstpost.md]. We will talk about load balancers vs reverse proxy.
-I will be talking continue posting about stuff like this is the future. If you like what I am doing, follow me on my website [{www.harshal.chaudhari.com}].</description>
+      <guid>http://localhost:8080/posts/secondpost/</guid>
+      <description>System design 102 This is in continuation with the my first blog. We will talk about load balancers vs reverse proxy.
+I will be talking continue posting about stuff like this is the future. If you like what I am doing, follow me on my website.</description>
       <content>&lt;h1 id=&#34;system-design-102&#34;&gt;System design 102&lt;/h1&gt;
-&lt;p&gt;This is in continuation with the my first blog [firstpost.md]. We will talk about load balancers vs reverse proxy.&lt;/p&gt;
+&lt;p&gt;This is in continuation with the my &lt;a href=&#34;../firstpost/index.html&#34;&gt;first blog&lt;/a&gt;. We will talk about load balancers vs reverse proxy.&lt;/p&gt;
 &lt;p&gt;I will be talking continue posting about stuff like this is the future.
-If you like what I am doing, follow me on my website [{www.harshal.chaudhari.com}].&lt;/p&gt;
+If you like what I am doing, follow me on my &lt;a href=&#34;www.harshal.chaudhari.com&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Firstpost</title>
-      <link>http://localhost:3000/posts/firstpost/</link>
+      <link>http://localhost:8080/posts/firstpost/</link>
       <pubDate>Wed, 02 Feb 2022 19:36:03 +0530</pubDate>
       
-      <guid>http://localhost:3000/posts/firstpost/</guid>
+      <guid>http://localhost:8080/posts/firstpost/</guid>
       <description>System design 101 This is very detailed blog about how to choose which programing language, framework, database to use for a project.
 I will be talking continue posting about stuff like this is the future. If you like what I am doing, follow me on my github.</description>
       <content>&lt;h1 id=&#34;system-design-101&#34;&gt;System design 101&lt;/h1&gt;

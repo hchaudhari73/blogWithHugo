@@ -1,1 +1,1 @@
-![home](hugoHomepage.png)
+![home](hugoBlogHomepage.png)
